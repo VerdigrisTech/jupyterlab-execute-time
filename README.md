@@ -1,5 +1,28 @@
 # jupyterlab-execute-time
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**DEPRECTATED. PLEASE SEE NEW PIP INSTALL METHOD FOR JUPYTERLAB 3**
+
+The only place this repo is used is in the https://github.com/VerdigrisTech/verdigris_datascience 
+in order to provide some extra security when installing the lab extension.
+
+Keeping this around for a minute so to have a fallback when rolling forward but by the time you're reading this it's probably already ready to just be deleted as use the JuypterLab3 method.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 [![Binder][badge-binder]][binder]
 [![NPM version][npm-image]][npm-url] [![NPM DM][npm-dm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
